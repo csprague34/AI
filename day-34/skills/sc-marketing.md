@@ -4,6 +4,23 @@ Full-stack marketing ops for GarageSaleSniper and personal brand.
 
 ---
 
+## Brand Origin — The 34 Story
+
+Every piece of content carries a thread: **#34**.
+
+Small town. Most decorated football player. Rushing records. Touchdown records.
+Championship. The number 34 represents a proven identity — discipline, showing up,
+winning through the grind.
+
+Day 34 of the build isn't a coincidence. It's a milestone. The same athlete who
+wore that number is the same builder running this operation. That story is the
+through-line across every post, every video, every campaign.
+
+**Use it.** Every 34th day is a landmark post. The "Why 34?" Remotion clip is
+evergreen content. Lead every personal brand bio with the championship mindset.
+
+---
+
 ## Stack
 
 | Layer | Tool | Purpose |
