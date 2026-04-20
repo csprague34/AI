@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd falconry-app && npm install && npm run build",
-  "outputDirectory": "falconry-app/.next",
-  "framework": "nextjs",
-  "rootDirectory": "falconry-app"
-}
